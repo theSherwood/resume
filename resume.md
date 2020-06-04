@@ -1,43 +1,56 @@
 <div class="page">
   <section class="heading">
-    <div class="p-30 ph-50">
-      <h2>Adam Sherwood</h2>
-      <div class="indent">     
+    <div class="heading-columns p-30 ph-50">
+      <div class="heading-col-1">
+        <h2>Adam Sherwood</h2>
         <h3 class="job-title">Software Engineer</h3>
-        <span class="block">
-          <strong class="property">Address</strong>
-          Highland, UT 84003
-        </span>
-        <span class="block">
-          <strong class="property">Phone</strong>
-          +1-385-328-8133
-        </span>
-        <span class="block">
-          <strong class="property">Email</strong>
-          <a href="mailto:adam.the.sherwood@gmail.com">adam.the.sherwood@gmail.com</a>
-        </span>
-        <span class="block">
-          <strong class="property">GitHub</strong>
-          <a href="https://github.com/theSherwood">https://github.com/theSherwood</a>
-        </span>
+      </div>
+      <div class="heading-col-2">
+        <div class="indent">     
+          <span class="block">
+            <strong class="property">Address</strong>
+            Highland, UT 84003
+          </span>
+          <span class="block">
+            <strong class="property">Phone</strong>
+            +1-385-328-8133
+          </span>
+          <span class="block">
+            <strong class="property">Email</strong>
+            <a href="mailto:adam.the.sherwood@gmail.com">adam.the.sherwood@gmail.com</a>
+          </span>
+          <span class="block">
+            <strong class="property">GitHub</strong>
+            <a href="https://github.com/theSherwood">https://github.com/theSherwood</a>
+          </span>
+          <span class="block">
+            <strong class="property">Website</strong>
+            <a href="https://adamsherwood.dev/">https://adamsherwood.dev/</a>
+          </span>
+        </div>
       </div>
     </div>
   </section>
   <main class="ph-50">
-    <!-- <p class="objective">Enthusiastic Software Engineer focused on building lean and performant web apps.</p> -->
     <section class="columns">
       <section class="col-1">
         <h3>Work Experience</h3>
         <div class="flex indent work-experience">
           <div class="date">
-            2020 Oct - present
+            2019 Oct - present
           </div>
           <div class="content">
             <h4>Software Engineer</h4>
             <em>Deseret Digital Media - Salt Lake City, UT</em>
-            <ul>
-              <li>Worked closely with </li>
-            </ul>
+            <span class="block">
+              - Worked closely with cross-functional teams to design and implement the software and interfaces for an entirely new business model.
+            </span>
+            <span class="block">
+              - Consolidated user flows to facilitate more maintainable, performant, and reliable software.
+            </span>
+            <span class="block">
+              - Built dashboards for customer service, analytics, and stake holders.
+            </span>
           </div>
         </div>
         <h3>Education</h3>
@@ -54,7 +67,7 @@
         <div class="indent projects">
           <h4>ReconJS</h4>
           <div class="indent">
-            <em>Statically anaylyzes JavaScript for security concerns</em>
+            <em>Statically anaylyzes JavaScript for dangerous code</em>
             <a class="block" href="https://github.com/theSherwood/ReconJS">https://github.com/theSherwood/ReconJS</a>
           </div>
           <h4>7 GUIs</h4>

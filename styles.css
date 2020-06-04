@@ -9,8 +9,26 @@
 }
 
 .heading {
-  background: crimson;
+  background: #9b0000;
   color: white;
+}
+
+.heading a {
+  color: white;
+}
+
+.heading-columns {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.heading-col-1 {
+  flex: 0 0 300px;
+}
+
+.heading-col-2 {
+  flex: 1 1 0px;
 }
 
 .objective {
@@ -24,6 +42,7 @@ main {
 h2 {
   font-size: 2.2em;
   font-weight: bold;
+  margin-top: 0px;
 }
 
 h3 {
@@ -38,7 +57,7 @@ h4 {
 
 a {
   text-decoration: underline;
-  color: inherit;
+  color: #9b0000;
 }
 
 .p-30 {
@@ -60,7 +79,7 @@ a {
 }
 
 .flex .date {
-  flex: 0 1 160px;
+  flex: 0 1 90px;
 }
 
 .flex .content {
@@ -72,7 +91,8 @@ a {
   margin-bottom: 5px;
 }
 
-.projects h4, .skills h4 {
+.projects h4,
+.skills h4 {
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -105,5 +125,5 @@ a {
 
 .col-2 {
   flex: 0 0 150px;
-  border-left: solid 3px red;
+  border-left: solid 3px #9b0000;
 }
