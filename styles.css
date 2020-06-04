@@ -12,6 +12,10 @@
   color: white;
 }
 
+.objective {
+  margin-bottom: 30px;
+}
+
 main {
   position: relative;
   margin-top: 30px;
@@ -28,6 +32,7 @@ h3 {
 
 h4 {
   font-size: 1.4em;
+  font-weight: normal;
 }
 
 a {
@@ -39,9 +44,13 @@ a {
   padding: 30px;
 }
 
-.ph-70 {
-  padding-left: 70px;
-  padding-right: 70px;
+.ph-50 {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.pl-30 {
+  padding-left: 30px;
 }
 
 .flex {
@@ -62,7 +71,7 @@ a {
   margin-bottom: 5px;
 }
 
-.projects h4 {
+.projects h4, .skills h4 {
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -82,4 +91,18 @@ a {
 .property {
   display: inline-block;
   width: 70px;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+}
+
+.col-1 {
+  flex: 1 1 0px;
+}
+
+.col-2 {
+  flex: 0 0 150px;
+  border-left: solid 3px red;
 }
