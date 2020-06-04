@@ -5,6 +5,7 @@
   right: 0;
   top: 0;
   bottom: 0;
+  font-size: 14px;
 }
 
 .heading {
@@ -18,7 +19,6 @@
 
 main {
   position: relative;
-  margin-top: 30px;
 }
 
 h2 {
@@ -28,11 +28,12 @@ h2 {
 
 h3 {
   font-size: 1.7em;
+  margin-bottom: 10px;
+  text-transform: uppercase;
 }
 
 h4 {
   font-size: 1.4em;
-  font-weight: normal;
 }
 
 a {

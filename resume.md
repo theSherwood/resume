@@ -2,8 +2,8 @@
   <section class="heading">
     <div class="p-30 ph-50">
       <h2>Adam Sherwood</h2>
-      <span><h3>Software Engineer</h3></span>
       <div class="indent">     
+        <h3 class="job-title">Software Engineer</h3>
         <span class="block">
           <strong class="property">Address</strong>
           Highland, UT 84003
@@ -17,14 +17,14 @@
           <a href="mailto:adam.the.sherwood@gmail.com">adam.the.sherwood@gmail.com</a>
         </span>
         <span class="block">
-          <strong class="property">Github</strong>
+          <strong class="property">GitHub</strong>
           <a href="https://github.com/theSherwood">https://github.com/theSherwood</a>
         </span>
       </div>
     </div>
   </section>
   <main class="ph-50">
-    <p class="objective">Enthusiastic Software Engineer focused on building lean and performant web apps.</p>
+    <!-- <p class="objective">Enthusiastic Software Engineer focused on building lean and performant web apps.</p> -->
     <section class="columns">
       <section class="col-1">
         <h3>Work Experience</h3>
@@ -54,23 +54,34 @@
         <div class="indent projects">
           <h4>ReconJS</h4>
           <div class="indent">
-            <a href="https://github.com/theSherwood/ReconJS">https://github.com/theSherwood/ReconJS</a>
+            <em>Statically anaylyzes JavaScript for security concerns</em>
+            <a class="block" href="https://github.com/theSherwood/ReconJS">https://github.com/theSherwood/ReconJS</a>
           </div>
           <h4>7 GUIs</h4>
           <div class="indent">
-            <a href="https://github.com/theSherwood/7_GUIs">https://github.com/theSherwood/7_GUIs</a>
+            <em>Implementations of the 7 GUIs benchmark in multiple frameworks</em>
+            <a class="block" href="https://github.com/theSherwood/7_GUIs">https://github.com/theSherwood/7_GUIs</a>
           </div>
           <h4>RegexXP</h4>
           <div class="indent">
-            <a href="https://github.com/theSherwood/RegexXP">https://github.com/theSherwood/RegexXP</a>
+            <em>A web app for solving, creating, and sharing regex puzzles</em>
+            <a class="block" href="https://github.com/theSherwood/RegexXP">https://github.com/theSherwood/RegexXP</a>
           </div>
           <h4>Mentat</h4>
           <div class="indent">
-            <a href="https://github.com/theSherwood/Mentat">https://github.com/theSherwood/Mentat</a>
+            <em>4 TiddlyWiki plugins that provide an OS-style windowed interface</em>
+            <a class="block" href="https://github.com/theSherwood/Mentat">https://github.com/theSherwood/Mentat</a>
           </div>
           <h4>Sinuous Libraries</h4>
           <div class="indent">
-            <a href="https://github.com/theSherwood/Mentat">https://github.com/theSherwood/Mentat</a>
+            <em>Hiccup-inspired view syntax for Sinuous</em>
+            <a class="block indent" href="https://github.com/theSherwood/sinuous-frame">https://github.com/theSherwood/sinuous-frame</a>
+            <em>A light-weight, fast, and easy to use context api for Sinuous</em>
+            <a class="block indent" href="https://github.com/theSherwood/sinuous-context">https://github.com/theSherwood/sinuous-context</a>
+            <em>Scoped styles for Sinuous à la styled-jsx</em>
+            <a class="block indent" href="https://github.com/theSherwood/sinuous-style">https://github.com/theSherwood/sinuous-style</a>
+            <em>2-way element bindings for Sinuous</em>
+            <a class="block indent" href="https://github.com/theSherwood/sinuous-bind">https://github.com/theSherwood/sinuous-bind</a>
           </div>
         </div>
       </section>
