@@ -6,7 +6,7 @@
         <h3 class="job-title">Software Engineer</h3>
       </div>
       <div class="heading-col-2">
-        <div class="indent">     
+        <div>     
           <span class="block">
             <strong class="property">Address</strong>
             Highland, UT 84003
@@ -33,60 +33,104 @@
   </section>
   <main class="ph-50">
     <section class="columns">
-      <section class="col-1">
+      <section class="col-1 pr-30">
         <h3>Work Experience</h3>
-        <div class="flex indent work-experience">
-          <div class="date">
-            2019 Oct - present
+        <div class="flex flex-c indent work-experience">
+          <div class="flex-r">
+            <div class="date">
+              2021 Jan - present
+            </div>
+            <div class="content">
+              <h4>Roam Research, Inc</h4>
+              <em>Software Engineer</em>
+              <div>
+                <span class="block">
+                  - TODO
+                </span>
+              </div>
+            </div>
           </div>
-          <div class="content">
-            <h4>Software Engineer</h4>
-            <em>Deseret Digital Media - Salt Lake City, UT</em>
-            <span class="block">
-              - Worked closely with cross-functional teams to design and implement the software and interfaces for an entirely new business model.
-            </span>
-            <span class="block">
-              - Consolidated user flows to facilitate more maintainable, performant, and reliable software.
-            </span>
-            <span class="block">
-              - Built dashboards for customer service, analytics, and stake holders.
-            </span>
+          <div class="flex-r">
+            <div class="date">
+              2019 Oct - 2020 Dec
+            </div>
+            <div class="content">
+              <h4>Deseret Digital Media</h4>
+              <em>Software Engineer</em>
+              <div>
+                <span class="block">
+                  - Worked closely with cross-functional teams to design and implement the software and interfaces for an entirely new business model.
+                </span>
+                <span class="block">
+                  - Consolidated user flows to facilitate more maintainable, performant, and reliable software.
+                </span>
+                <span class="block">
+                  - Built dashboards for customer service, analytics, and stake holders.
+                </span>
+              </div>
+            </div>
           </div>
         </div>
         <h3>Education</h3>
-        <div class="flex indent education">
-          <div class="date">
-            2017 Oct - 2019 Jun
-          </div>
-          <div class="content">
-            <h4>Master of Arts: Sculpture</h4>
-            <em>Royal College of Art - London, UK</em>
+        <div class="flex flex-c indent education">
+          <div class="flex-r">
+            <div class="date">
+              2017 Oct - 2019 Jun
+            </div>
+            <div class="content">
+              <h4>Master of Arts: Sculpture</h4>
+              <em>Royal College of Art - London, UK</em>
+            </div>
           </div>
         </div>
-        <h3>Projects</h3>
-        <div class="indent projects">
+      </section>
+      <section class="col-2 pl-30">
+        <h3>Skills</h3>
+        <div class="indent skills">
+          <h4>Languages</h4>
+          <div>
+            <span class="block">JavaScript</span>
+            <span class="block">Clojure/script</span>
+            <span class="block">HTML</span>
+            <span class="block">CSS</span>
+          </div>
+          <h4>Front End</h4>
+          <div>
+            <span class="block">React</span>
+            <span class="block">Svelte</span>
+            <span class="block">Sinuous</span>
+          </div>
+        </div>
+      </section>
+    </section>
+    <section>
+      <h3>Projects</h3>
+      <section class="columns">
+        <div class="projects">
           <h4>ReconJS</h4>
-          <div class="indent">
+          <div>
             <em>Statically anaylyzes JavaScript for dangerous code</em>
             <a class="block" href="https://github.com/theSherwood/ReconJS">https://github.com/theSherwood/ReconJS</a>
           </div>
           <h4>7 GUIs</h4>
-          <div class="indent">
+          <div>
             <em>Implementations of the 7 GUIs benchmark in multiple frameworks</em>
             <a class="block" href="https://github.com/theSherwood/7_GUIs">https://github.com/theSherwood/7_GUIs</a>
           </div>
           <h4>RegexXP</h4>
-          <div class="indent">
+          <div>
             <em>A web app for solving, creating, and sharing regex puzzles</em>
             <a class="block" href="https://github.com/theSherwood/RegexXP">https://github.com/theSherwood/RegexXP</a>
           </div>
           <h4>Mentat</h4>
-          <div class="indent">
+          <div>
             <em>4 TiddlyWiki plugins that provide an OS-style windowed interface</em>
             <a class="block" href="https://github.com/theSherwood/Mentat">https://github.com/theSherwood/Mentat</a>
           </div>
+        </div>
+        <div class="projects">
           <h4>Sinuous Libraries</h4>
-          <div class="indent">
+          <div>
             <em>Hiccup-inspired view syntax for Sinuous</em>
             <a class="block indent" href="https://github.com/theSherwood/sinuous-frame">https://github.com/theSherwood/sinuous-frame</a>
             <em>A light-weight, fast, and easy to use context api for Sinuous</em>
@@ -95,23 +139,6 @@
             <a class="block indent" href="https://github.com/theSherwood/sinuous-style">https://github.com/theSherwood/sinuous-style</a>
             <em>2-way element bindings for Sinuous</em>
             <a class="block indent" href="https://github.com/theSherwood/sinuous-bind">https://github.com/theSherwood/sinuous-bind</a>
-          </div>
-        </div>
-      </section>
-      <section class="col-2 pl-30">
-        <h3>Skills</h3>
-        <div class="indent skills">
-          <h4>Languages</h4>
-          <div class="indent">
-            <span class="block">JavaScript<span>
-            <span class="block">HTML<span>
-            <span class="block">CSS<span>
-          </div>
-          <h4>Front End</h4>
-          <div class="indent">
-            <span class="block">React<span>
-            <span class="block">Svelte<span>
-            <span class="block">Sinuous<span>
           </div>
         </div>
       </section>

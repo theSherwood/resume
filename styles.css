@@ -52,7 +52,7 @@ h3 {
 }
 
 h4 {
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 a {
@@ -73,9 +73,18 @@ a {
   padding-left: 30px;
 }
 
-.flex {
+.pr-30 {
+  padding-right: 30px;
+}
+
+.flex-r {
   display: flex;
   flex-direction: row;
+}
+
+.flex-c {
+  display: flex;
+  flex-direction: column;
 }
 
 .flex .date {
@@ -88,17 +97,17 @@ a {
 
 .content h4 {
   margin-top: 0;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 
 .projects h4,
 .skills h4 {
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 
 .indent {
-  margin-left: 15px;
+  /* margin-left: 15px; */
 }
 
 .big-indent {
@@ -124,6 +133,6 @@ a {
 }
 
 .col-2 {
-  flex: 0 0 150px;
+  flex: 0 0 100px;
   border-left: solid 3px #9b0000;
 }
