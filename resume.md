@@ -38,14 +38,14 @@
         <div class="flex flex-c indent work-experience">
           <div class="flex-r">
             <div class="date">
-              2021 Jan - present
+              2021 Jan - 2021 May
             </div>
             <div class="content">
               <h4>Roam Research, Inc</h4>
               <em>Software Engineer</em>
               <div>
                 <span class="block">
-                  - TODO
+                  - Prototyped and built UI/UX components to support novel knowledge management workflows.
                 </span>
               </div>
             </div>
@@ -129,7 +129,7 @@
           </div>
         </div>
         <div class="projects">
-          <h4>Sinuous Libraries</h4>
+          <h4>UI Libraries</h4>
           <div>
             <em>Hiccup-inspired view syntax for Sinuous</em>
             <a class="block indent" href="https://github.com/theSherwood/sinuous-frame">https://github.com/theSherwood/sinuous-frame</a>
