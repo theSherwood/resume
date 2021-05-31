@@ -13,7 +13,7 @@
           </span>
           <span class="block">
             <strong class="property">Phone</strong>
-            +1-385-328-8133
+            +1 385-328-8133
           </span>
           <span class="block">
             <strong class="property">Email</strong>
@@ -21,11 +21,11 @@
           </span>
           <span class="block">
             <strong class="property">GitHub</strong>
-            <a href="https://github.com/theSherwood">https://github.com/theSherwood</a>
+            <a href="https://github.com/theSherwood">github.com/theSherwood</a>
           </span>
           <span class="block">
             <strong class="property">Website</strong>
-            <a href="https://adamsherwood.dev/">https://adamsherwood.dev/</a>
+            <a href="https://adamsherwood.dev/">adamsherwood.dev</a>
           </span>
         </div>
       </div>
@@ -87,58 +87,52 @@
       <section class="col-2 pl-30">
         <h3>Skills</h3>
         <div class="indent skills">
-          <h4>Languages</h4>
-          <div>
-            <span class="block">JavaScript</span>
-            <span class="block">Clojure/script</span>
-            <span class="block">HTML</span>
-            <span class="block">CSS</span>
-          </div>
-          <h4>Front End</h4>
-          <div>
-            <span class="block">React</span>
-            <span class="block">Svelte</span>
-            <span class="block">Sinuous</span>
-          </div>
+          <span class="block">JavaScript</span>
+          <span class="block">Clojure/Script</span>
+          <span class="block">HTML</span>
+          <span class="block">CSS</span>
+          <span class="block">React</span>
+          <span class="block">Svelte</span>
+          <span class="block">Sinuous</span>
         </div>
       </section>
     </section>
     <section>
       <h3>Projects</h3>
       <section class="columns">
-        <div class="projects">
+        <div class="projects pr-10">
           <h4>ReconJS</h4>
           <div>
             <em>Statically anaylyzes JavaScript for dangerous code</em>
-            <a class="block" href="https://github.com/theSherwood/ReconJS">https://github.com/theSherwood/ReconJS</a>
+            <a class="block" href="https://github.com/theSherwood/ReconJS">github.com/theSherwood/ReconJS</a>
           </div>
           <h4>7 GUIs</h4>
           <div>
             <em>Implementations of the 7 GUIs benchmark in multiple frameworks</em>
-            <a class="block" href="https://github.com/theSherwood/7_GUIs">https://github.com/theSherwood/7_GUIs</a>
+            <a class="block" href="https://github.com/theSherwood/7_GUIs">github.com/theSherwood/7_GUIs</a>
           </div>
           <h4>RegexXP</h4>
           <div>
             <em>A web app for solving, creating, and sharing regex puzzles</em>
-            <a class="block" href="https://github.com/theSherwood/RegexXP">https://github.com/theSherwood/RegexXP</a>
+            <a class="block" href="https://github.com/theSherwood/RegexXP">github.com/theSherwood/RegexXP</a>
           </div>
           <h4>Mentat</h4>
           <div>
             <em>4 TiddlyWiki plugins that provide an OS-style windowed interface</em>
-            <a class="block" href="https://github.com/theSherwood/Mentat">https://github.com/theSherwood/Mentat</a>
+            <a class="block" href="https://github.com/theSherwood/Mentat">github.com/theSherwood/Mentat</a>
           </div>
         </div>
-        <div class="projects">
+        <div class="projects pl-10">
           <h4>UI Libraries</h4>
           <div>
-            <em>Hiccup-inspired view syntax for Sinuous</em>
-            <a class="block indent" href="https://github.com/theSherwood/sinuous-frame">https://github.com/theSherwood/sinuous-frame</a>
             <em>A light-weight, fast, and easy to use context api for Sinuous</em>
-            <a class="block indent" href="https://github.com/theSherwood/sinuous-context">https://github.com/theSherwood/sinuous-context</a>
+            <a class="block indent" href="https://github.com/theSherwood/sinuous-context">github.com/theSherwood/sinuous-context</a>
             <em>Scoped styles for Sinuous à la styled-jsx</em>
-            <a class="block indent" href="https://github.com/theSherwood/sinuous-style">https://github.com/theSherwood/sinuous-style</a>
+            <a class="block indent" href="https://github.com/theSherwood/sinuous-style">github.com/theSherwood/sinuous-style</a>
             <em>2-way element bindings for Sinuous</em>
-            <a class="block indent" href="https://github.com/theSherwood/sinuous-bind">https://github.com/theSherwood/sinuous-bind</a>
+            <a class="block indent" href="https://github.com/theSherwood/sinuous-bind">github.com/theSherwood/sinuous-bind</a>
+            <em>Hiccup-inspired view syntax for Sinuous</em>
+            <a class="block indent" href="https://github.com/theSherwood/sinuous-frame">github.com/theSherwood/sinuous-frame</a>
           </div>
         </div>
       </section>
