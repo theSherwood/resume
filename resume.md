@@ -45,7 +45,10 @@
               <em>Software Engineer</em>
               <div>
                 <span class="block">
-                  - Prototyped and built UI/UX components to support novel knowledge management workflows.
+                  - Built and prototyped UI/UX components to support novel knowledge management workflows.
+                </span>
+                <span class="block">
+                  - Wrote and refactored Clojure(Script) to be more idiomatic and maintainable.
                 </span>
               </div>
             </div>
@@ -88,7 +91,7 @@
         <h3>Skills</h3>
         <div class="indent skills">
           <span class="block">JavaScript</span>
-          <span class="block">Clojure/Script</span>
+          <span class="block">Clojure(Script)</span>
           <span class="block">HTML</span>
           <span class="block">CSS</span>
           <span class="block">React</span>
