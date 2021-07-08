@@ -47,9 +47,6 @@
                 <span class="block">
                   - Built and prototyped UI/UX components to support novel knowledge management workflows.
                 </span>
-                <span class="block">
-                  - Wrote and refactored Clojure(Script) to be more idiomatic and maintainable.
-                </span>
               </div>
             </div>
           </div>
