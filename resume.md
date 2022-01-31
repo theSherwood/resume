@@ -38,6 +38,23 @@
         <div class="flex flex-c indent work-experience">
           <div class="flex-r">
             <div class="date">
+              2021 Sep - present
+            </div>
+            <div class="content">
+              <h4>Reify Health</h4>
+              <em>Software Engineer</em>
+              <div>
+                <span class="block">
+                  - Built user-facing dashboards for timely task tracking. 
+                </span>
+                <span class="block">
+                  - Maintained and expanded a shared components library.
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="flex-r">
+            <div class="date">
               2021 Jan - 2021 May
             </div>
             <div class="content">
@@ -45,7 +62,7 @@
               <em>Software Engineer</em>
               <div>
                 <span class="block">
-                  - Built and prototyped UI/UX components to support novel knowledge management workflows.
+                  - Built and prototyped UI/UX components to support novel knowledge-management workflows.
                 </span>
               </div>
             </div>
@@ -88,12 +105,13 @@
         <h3>Skills</h3>
         <div class="indent skills">
           <span class="block">JavaScript</span>
+          <span class="block">TypeScript</span>
           <span class="block">Clojure(Script)</span>
           <span class="block">HTML</span>
           <span class="block">CSS</span>
           <span class="block">React</span>
           <span class="block">Svelte</span>
-          <span class="block">Sinuous</span>
+          <span class="block">Solid</span>
         </div>
       </section>
     </section>
@@ -110,11 +128,6 @@
           <div>
             <em>Implementations of the 7 GUIs benchmark in multiple frameworks</em>
             <a class="block" href="https://github.com/theSherwood/7_GUIs">github.com/theSherwood/7_GUIs</a>
-          </div>
-          <h4>RegexXP</h4>
-          <div>
-            <em>A web app for solving, creating, and sharing regex puzzles</em>
-            <a class="block" href="https://github.com/theSherwood/RegexXP">github.com/theSherwood/RegexXP</a>
           </div>
           <h4>Mentat</h4>
           <div>
