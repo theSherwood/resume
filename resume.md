@@ -42,7 +42,7 @@
             </div>
             <div class="content">
               <h4>Reify Health</h4>
-              <em>Software Engineer</em>
+              <em>Senior Software Engineer</em>
               <div>
                 <span class="block">
                   - Built user-facing dashboards for timely task tracking. 
