@@ -38,7 +38,7 @@
         <div class="flex flex-c indent work-experience">
           <div class="flex-r">
             <div class="date">
-              2021 Sep - present
+              2021 Sep - 2022 Dec
             </div>
             <div class="content">
               <h4>Reify Health</h4>
