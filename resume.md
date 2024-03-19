@@ -9,11 +9,11 @@
         <div>     
           <span class="block">
             <strong class="property">Address</strong>
-            Highland, UT 84003
+            Llandrindod Wells, Wales, UK
           </span>
           <span class="block">
             <strong class="property">Phone</strong>
-            +1 385-328-8133
+            +44 07510750931
           </span>
           <span class="block">
             <strong class="property">Email</strong>
@@ -106,11 +106,9 @@
         <div class="indent skills">
           <span class="block">JavaScript</span>
           <span class="block">TypeScript</span>
-          <span class="block">Clojure(Script)</span>
-          <span class="block">HTML</span>
-          <span class="block">CSS</span>
+          <span class="block">Clojure</span>
+          <span class="block">Nim</span>
           <span class="block">React</span>
-          <span class="block">Svelte</span>
           <span class="block">Solid</span>
         </div>
       </section>
