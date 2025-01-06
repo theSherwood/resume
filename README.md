@@ -10,5 +10,4 @@ Alternate link:
 
 ## Export PDF
 
-While in `resume.md` open the command palette with `shift-command-p`.
-Type in `export` and select the `markdown-pdf: Export (pdf)` option.
+While in `resume.md`, run the `Markdown-PDF: Export (pdf)` command from the vscode command menu.

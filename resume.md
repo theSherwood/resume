@@ -38,6 +38,23 @@
         <div class="flex flex-c indent work-experience">
           <div class="flex-r">
             <div class="date">
+              2024 Oct - present
+            </div>
+            <div class="content">
+              <h4>Genie AI</h4>
+              <em>Software Engineer (Editor)</em>
+              <div>
+                <!-- <span class="block">
+                  - Added MS Word comment import and export to Genie's editor.
+                </span> -->
+                <span class="block">
+                  - Implemented testing strategy to improve reliability of document import and export.
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="flex-r">
+            <div class="date">
               2021 Sep - 2022 Dec
             </div>
             <div class="content">
