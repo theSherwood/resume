@@ -3,7 +3,6 @@
     <div class="heading-columns p-30 ph-50">
       <div class="heading-col-1">
         <h2>Adam Sherwood</h2>
-        <h3 class="job-title">Software Engineer</h3>
       </div>
       <div class="heading-col-2">
         <div>     
@@ -48,7 +47,7 @@
                   - Engineer on the shift pricing team for a healthcare staffing marketplace serving 6,500+ workplaces and 1M+ workers.
                 </span>
                 <span class="block">
-                  - Built the infrastructure integrating ML models into the pricing path, feeding predictions of shift desirability, facility cancellation, and worker cancellation into live pricing.
+                  - Built the infrastructure integrating ML models into the pricing path (S3, SageMaker, Snowflake), feeding predictions of shift desirability, facility cancellation, and worker cancellation into live pricing.
                 </span>
               </div>
             </div>
@@ -96,7 +95,7 @@
               <em>Senior Software Engineer</em>
               <div>
                 <span class="block">
-                  - Built user-facing dashboards for timely task tracking. 
+                  - Built user-facing dashboards for timely task tracking in clinical trial site operations.
                 </span>
                 <span class="block">
                   - Maintained and expanded a shared components library.
@@ -156,6 +155,7 @@
           <span class="block">TypeScript</span>
           <span class="block">JavaScript</span>
           <span class="block">Clojure</span>
+          <span class="block">SQL</span>
           <span class="block">React</span>
           <span class="block">Solid</span>
           <span class="block skills-tier">Personal</span>
