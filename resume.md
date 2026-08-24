@@ -38,17 +38,51 @@
         <div class="flex flex-c indent work-experience">
           <div class="flex-r">
             <div class="date">
-              2024 Oct - present
+              2025 Mar - present
+            </div>
+            <div class="content">
+              <h4>Clipboard Health</h4>
+              <em>Software Engineer</em>
+              <div>
+                <span class="block">
+                  - Engineer on the shift pricing team for a healthcare staffing marketplace serving 6,500+ workplaces and 1M+ workers.
+                </span>
+                <span class="block">
+                  - Built the infrastructure integrating ML models into the pricing path, feeding predictions of shift desirability, facility cancellation, and worker cancellation into live pricing.
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="flex-r">
+            <div class="date">
+              2024 Oct - 2025 Mar
             </div>
             <div class="content">
               <h4>Genie AI</h4>
               <em>Software Engineer (Editor)</em>
               <div>
-                <!-- <span class="block">
+                <span class="block">
                   - Added MS Word comment import and export to Genie's editor.
-                </span> -->
+                </span>
                 <span class="block">
                   - Implemented testing strategy to improve reliability of document import and export.
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="flex-r">
+            <div class="date">
+              2023 Jan - 2024 Sep
+            </div>
+            <div class="content">
+              <h4>Independent Research &amp; Development</h4>
+              <em>Sabbatical</em>
+              <div>
+                <span class="block">
+                  - Prototyped local-first editor and knowledge-management tooling with a cofounder.
+                </span>
+                <span class="block">
+                  - Built the supporting libraries in Nim: incremental view maintenance via differential dataflow, and persistent immutable collections compiling to both native code and WebAssembly.
                 </span>
               </div>
             </div>
@@ -93,13 +127,10 @@
               <em>Software Engineer</em>
               <div>
                 <span class="block">
-                  - Worked closely with cross-functional teams to design and implement the software and interfaces for an entirely new business model.
+                  - Designed and built the software and interfaces for an entirely new business model, working across product, design, and engineering.
                 </span>
                 <span class="block">
-                  - Consolidated user flows to facilitate more maintainable, performant, and reliable software.
-                </span>
-                <span class="block">
-                  - Built dashboards for customer service, analytics, and stake holders.
+                  - Built dashboards for customer service, analytics, and stakeholders.
                 </span>
               </div>
             </div>
@@ -121,12 +152,15 @@
       <section class="col-2 pl-30">
         <h3>Skills</h3>
         <div class="indent skills">
-          <span class="block">JavaScript</span>
+          <span class="block skills-tier">Professional</span>
           <span class="block">TypeScript</span>
+          <span class="block">JavaScript</span>
           <span class="block">Clojure</span>
-          <span class="block">Nim</span>
           <span class="block">React</span>
           <span class="block">Solid</span>
+          <span class="block skills-tier">Personal</span>
+          <span class="block">Nim</span>
+          <span class="block">C</span>
         </div>
       </section>
     </section>
@@ -134,33 +168,32 @@
       <h3>Projects</h3>
       <section class="columns">
         <div class="projects pr-10">
-          <h4>ReconJS</h4>
+          <h4>Temen <span class="lang">Rust</span> <span class="assisted">agent-assisted</span></h4>
           <div>
-            <em>Statically anaylyzes JavaScript for dangerous code</em>
-            <a class="block" href="https://github.com/theSherwood/ReconJS">github.com/theSherwood/ReconJS</a>
+            <em>A WebAssembly alternative for running untrusted native code — Cranelift JIT, capability-based host access, real virtual memory, and a generative differential fuzzer checking the JIT against a reference interpreter.</em>
+            <a class="block" href="https://github.com/theSherwood/temen">github.com/theSherwood/temen</a>
           </div>
-          <h4>7 GUIs</h4>
+          <h4>jacl <span class="lang">C</span> <span class="assisted">agent-assisted</span></h4>
           <div>
-            <em>Implementations of the 7 GUIs benchmark in multiple frameworks</em>
-            <a class="block" href="https://github.com/theSherwood/7_GUIs">github.com/theSherwood/7_GUIs</a>
+            <em>A gradually typed command language crossing Tcl with Lisp — unboxed typed values, a work-stealing runtime, a tracing GC, and a C FFI for embedding.</em>
+            <a class="block" href="https://github.com/theSherwood/jacl_impl">github.com/theSherwood/jacl_impl</a>
           </div>
-          <h4>Mentat</h4>
+          <h4>Sinuous libraries <span class="lang">JavaScript</span></h4>
           <div>
-            <em>4 TiddlyWiki plugins that provide an OS-style windowed interface</em>
-            <a class="block" href="https://github.com/theSherwood/Mentat">github.com/theSherwood/Mentat</a>
+            <em>Context, scoped styles, and 2-way element bindings for the Sinuous UI library</em>
+            <span class="block">github.com/theSherwood/<a href="https://github.com/theSherwood/sinuous-context">sinuous-context</a>, <a href="https://github.com/theSherwood/sinuous-style">-style</a>, <a href="https://github.com/theSherwood/sinuous-bind">-bind</a></span>
           </div>
         </div>
         <div class="projects pl-10">
-          <h4>UI Libraries</h4>
+          <h4>7 GUIs <span class="lang">multiple</span></h4>
           <div>
-            <em>A light-weight, fast, and easy to use context api for Sinuous</em>
-            <a class="block indent" href="https://github.com/theSherwood/sinuous-context">github.com/theSherwood/sinuous-context</a>
-            <em>Scoped styles for Sinuous à la styled-jsx</em>
-            <a class="block indent" href="https://github.com/theSherwood/sinuous-style">github.com/theSherwood/sinuous-style</a>
-            <em>2-way element bindings for Sinuous</em>
-            <a class="block indent" href="https://github.com/theSherwood/sinuous-bind">github.com/theSherwood/sinuous-bind</a>
-            <em>Hiccup-inspired view syntax for Sinuous</em>
-            <a class="block indent" href="https://github.com/theSherwood/sinuous-frame">github.com/theSherwood/sinuous-frame</a>
+            <em>Implementations of the 7 GUIs benchmark across a range of languages and UI frameworks</em>
+            <a class="block" href="https://github.com/theSherwood/7_GUIs">github.com/theSherwood/7_GUIs</a>
+          </div>
+          <h4>Mentat <span class="lang">JavaScript</span></h4>
+          <div>
+            <em>TiddlyWiki plugins providing an OS-style windowed interface</em>
+            <a class="block" href="https://github.com/theSherwood/Mentat">github.com/theSherwood/Mentat</a>
           </div>
         </div>
       </section>
